@@ -9,7 +9,7 @@ const presidentData = [
       link: "#"
     },
     {
-      title: "John Doe",
+      title: "John ade",
       description: "President",
       image: "https://via.placeholder.com/300",
       link: "#"
