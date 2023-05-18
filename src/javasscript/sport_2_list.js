@@ -1,6 +1,6 @@
 const vPresidentData = [
     {
-      title: "Adeyemi code",
+      title: "Adeyemi Muteu",
       description: "President",
       image: "https://via.placeholder.com/300",
       link: "#"
@@ -9,7 +9,7 @@ const vPresidentData = [
   ];
   
   // Select the card container
-  const VpContainer = document.getElementById("Gen_sec");
+  const VpContainer = document.getElementById("sport_2");
   
   // Loop through the card data and create the cards
   for (let cardData of vPresidentData) {
@@ -61,6 +61,6 @@ const vPresidentData = [
     card.appendChild(cardContent);
   
     // Append the card to the card container
-    Gen_sec.appendChild(card);
+    sport_2.appendChild(card);
   }
   
